@@ -1,0 +1,190 @@
+.navBar{
+    width: 300px;
+    height: 730px;;
+    background-color:black;
+    float: left;
+    overflow:hidden;
+    position: fixed;
+}
+.elements{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.buttonNav{
+    width: 250px;
+    background-color:black;
+    color: white;
+    font-size: 25px;
+    border: none;
+    display: inline-block;
+    padding: 16px 18px;
+    text-decoration: none;
+    text-align: justify;
+    align-items: center;
+}
+.buttonNav:hover{
+    background-color:darkgray;
+}
+
+  
+
+.home{
+    height: 732px;
+    background-color: lightsteelblue;
+}
+.headone{
+    margin-left: 350px;
+    text-align: justify;
+    font-size: 60px;
+    
+}
+.quote{
+    font-style: italic ;
+    margin-left: 350px;
+    text-align: justify;
+    font-weight:300;
+}
+.degree{
+    margin-left: 550px;
+    text-align: justify;
+    font-weight:300;
+    
+}
+.about{
+    height: 732px;
+    background-color: lightgoldenrodyellow;
+}
+.aboutTable{
+    margin-left: 350px;
+}
+.infoAbout{
+
+    text-align: center;
+    width: 200px;
+    background-color: lightgrey;
+}
+.headtwo{
+    font-size: 40px;
+
+}
+.personalInfo{
+    background-color:lightblue;
+    width:750px;
+    height:370px;
+    font-size: 20px;
+    
+    
+}
+
+.alignABOUT{
+    margin-left: 20px;
+}
+.education{
+    height: 732px;
+    background-color:lavender;
+}
+.headthree{
+    margin-left: 350px;
+    text-align: justify;
+    font-size: 40px;
+    
+}
+.edu{
+    font-size: 30px;
+    
+}
+.EDUcontent{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.courseList{
+    margin-left: 350px;
+    font-size: 20px;
+    list-style:square;
+    
+}
+.skills{
+    height: 732px;
+    background-color:beige;
+}
+.headfour{
+    font-size: 60px;
+    margin-left: 350px;
+}
+.skillheading{
+    font-size: 25px;
+    margin-left: 350px;
+}
+.container{
+    background-color:black;
+    width: 70%;
+    border-radius: 15px;
+    margin-left: 350px;
+}
+.skill{
+    background-color:lightskyblue;
+    color: black;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.html{
+    width: 90%;
+}
+.css{
+    width: 70%;
+}
+.skillname{
+    font-size: 20px;
+    margin-left: 350px;
+}
+.python{
+    width:60%;
+}
+.java{
+    width: 50%;
+}
+.js{
+    width: 25%;
+}
+.c{
+    width: 70%;
+}
+.contactME{
+    height: 712px;
+    background-color:lavenderblush;
+}
+.headfive{
+    font-size: 60px;
+    margin-left: 350px;
+}
+.formAlignn{
+     margin-left: 700px;
+}
+.formAlign{
+    margin-left: 700px;
+    
+}
+.align{
+    font-size: 30px;
+}
+.alignSubmit{
+    font-size: 30px;
+    align-items:center ;
+    text-align: center;
+}
+.subfooter{
+    height: 50px;
+    background-color: black;
+    color: white;
+
+}
+.Copyright{
+    margin-left: 450px;
+    color: white;
+    text-align: center;
+}
